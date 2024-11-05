@@ -1,0 +1,51 @@
+Winner: Player 1 at 175 iterations
+Winner: Player 2 at 132 iterations
+Winner: Player 1 at 131 iterations
+Stuck!
+Stuck!
+Winner: Player 2 at 116 iterations
+Winner: Player 1 at 125 iterations
+Winner: Player 1 at 127 iterations
+Winner: Player 1 at 119 iterations
+Winner: Player 1 at 113 iterations
+Winner: Player 1 at 133 iterations
+Winner: Player 1 at 137 iterations
+Winner: Player 2 at 126 iterations
+Winner: Player 1 at 151 iterations
+Winner: Player 2 at 130 iterations
+Winner: Player 1 at 127 iterations
+Winner: Player 1 at 155 iterations
+Winner: Player 2 at 142 iterations
+Stuck!
+Winner: Player 1 at 135 iterations
+Winner: Player 2 at 114 iterations
+Winner: Player 2 at 152 iterations
+Winner: Player 1 at 121 iterations
+Stuck!
+Winner: Player 1 at 127 iterations
+Stuck!
+Winner: Player 1 at 141 iterations
+Winner: Player 2 at 120 iterations
+Winner: Player 1 at 141 iterations
+Winner: Player 1 at 131 iterations
+Winner: Player 1 at 125 iterations
+Winner: Player 2 at 130 iterations
+Winner: Player 1 at 127 iterations
+Winner: Player 1 at 135 iterations
+Winner: Player 1 at 143 iterations
+Stuck!
+Winner: Player 1 at 131 iterations
+Winner: Player 1 at 127 iterations
+Stuck!
+Winner: Player 2 at 126 iterations
+Winner: Player 2 at 136 iterations
+Stuck!
+Stuck!
+Winner: Player 2 at 106 iterations
+Winner: Player 1 at 127 iterations
+Stuck!
+Stuck!
+Winner: Player 1 at 111 iterations
+Winner: Player 1 at 117 iterations
+Winner: Player 1 at 133 iterations
+Average iterations: 130.64102564102564
